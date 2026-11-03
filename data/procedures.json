@@ -1,0 +1,18 @@
+{
+  "_notice": "SYNTHETIC: fictional data for a student demo.",
+  "_about": "12 invented procedure IDs. They are deliberately not ADA CDT codes, which need a license for any product use.",
+  "procedures": [
+    { "procedure_id": "PREV-EXAM", "class": "preventive", "name": "Periodic exam" },
+    { "procedure_id": "PREV-CLEAN-ADULT", "class": "preventive", "name": "Adult cleaning" },
+    { "procedure_id": "PREV-BITEWING", "class": "preventive", "name": "Bitewing X-rays" },
+    { "procedure_id": "PREV-FLUORIDE-CHILD", "class": "preventive", "name": "Fluoride treatment (child)" },
+    { "procedure_id": "PREV-SEALANT", "class": "preventive", "name": "Sealant" },
+    { "procedure_id": "BASIC-FILLING", "class": "basic", "name": "Filling" },
+    { "procedure_id": "BASIC-EXTRACTION", "class": "basic", "name": "Simple extraction" },
+    { "procedure_id": "MAJOR-CROWN", "class": "major", "name": "Crown" },
+    { "procedure_id": "MAJOR-ROOT-CANAL", "class": "major", "name": "Root canal" },
+    { "procedure_id": "MAJOR-IMPLANT", "class": "major", "name": "Implant" },
+    { "procedure_id": "ORTHO-CHILD", "class": "orthodontic", "name": "Orthodontics (child)" },
+    { "procedure_id": "COSM-WHITENING", "class": "cosmetic", "name": "Teeth whitening" }
+  ]
+}

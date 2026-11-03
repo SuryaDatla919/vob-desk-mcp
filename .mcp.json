@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "vob-desk": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["--import", "tsx", "src/server.ts"]
+    }
+  }
+}

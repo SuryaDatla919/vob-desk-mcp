@@ -1,0 +1,6 @@
+# SYNTHETIC: fictional data for a student demo.
+provider_id,request_ref,member_id,patient_dob,planned_date,procedures,notes
+PRV-02,A-1,SYN-1003-01,1990-10-30,2026-11-16,MAJOR-CROWN,
+PRV-02,A-2,SYN-1013-01,1988-12-12,2026-11-25,BASIC-FILLING,
+PRV-02,A-3,SYN-1005-01,2014-03-03,2026-11-19,PREV-EXAM,
+PRV-02,A-4,SYN-1010-01,1971-08-08,2026-11-12,PREV-EXAM,

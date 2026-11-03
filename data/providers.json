@@ -1,0 +1,10 @@
+{
+  "_notice": "SYNTHETIC: fictional data for a student demo.",
+  "_about": "4 invented provider IDs. Real provider identifiers are not used. PRV-04 is suspended to exercise rule R01.",
+  "providers": [
+    { "provider_id": "PRV-01", "name": "Synthetic Clinic 01", "status": "active" },
+    { "provider_id": "PRV-02", "name": "Synthetic Clinic 02", "status": "active" },
+    { "provider_id": "PRV-03", "name": "Synthetic Clinic 03", "status": "active" },
+    { "provider_id": "PRV-04", "name": "Synthetic Clinic 04", "status": "suspended" }
+  ]
+}
